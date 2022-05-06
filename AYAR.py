@@ -1,0 +1,2 @@
+
+MUZIK_DIZINI = "./music/"
